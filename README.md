@@ -5,6 +5,7 @@ Plugin for easy and fast development to enable developers of Android Apps to con
 For Android app developers, this plugin provides a highly productive integrated development environment within IntelliJ IDEA and Android Studio, which they can use to integrate Android apps with Office 365 and Azure Mobile Services. For middleware Java developers, the plugin provides an integrated environment to access Microsoft Azure compute services. (Access to Office 365 data and services is coming soon.) 
 
 At minimum you’ll need to install the following: 
+At minimum you’ll need to install the following: 
 
 Prerequisites
 =============

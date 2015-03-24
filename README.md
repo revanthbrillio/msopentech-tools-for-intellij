@@ -6,6 +6,7 @@ For Android app developers, this plugin provides a highly productive integrated 
 
 At minimum you’ll need to install the following: 
 At minimum you’ll need to install the following: 
+At minimum you’ll need to install the following:
 
 Prerequisites
 =============
